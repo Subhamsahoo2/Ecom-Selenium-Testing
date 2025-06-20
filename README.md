@@ -14,6 +14,9 @@ This project in Java with Selenium automates the e-commerce workflow on Flipkart
 📋 Requirements
 
 -Must have Java 8 or higher
+
 -Chrome browser installed
+
 -ChromeDriver is a must have
+
 -Selenium Java library
