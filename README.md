@@ -1,4 +1,4 @@
-# Ecom-silenium-testing
+# Ecom-selenium-testing
 This project in Java with Selenium automates the e-commerce workflow on Flipkart:
 
 - Start Flipkart
